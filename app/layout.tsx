@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { LanguageProvider } from "@/lib/LanguageContext";
+import { LanguageProvider } from "@/lib/languageContext";
 
 export const metadata: Metadata = {
   title: "DBF to CSV Converter | DBF 转 CSV 转换器",

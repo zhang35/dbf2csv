@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, FormEvent } from 'react';
-import { useLanguage } from '@/lib/LanguageContext';
+import { useLanguage } from '@/lib/languageContext';
 
 export default function Home() {
   const { language, setLanguage, t } = useLanguage();

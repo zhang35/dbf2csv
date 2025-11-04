@@ -1,0 +1,15 @@
+# Python files
+python/
+venv/
+*.pyc
+__pycache__/
+
+# Development
+.git/
+node_modules/
+.next/
+
+# Testing files
+*.dbf
+output.csv
+input.dbf
