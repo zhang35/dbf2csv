@@ -192,3 +192,5 @@ yarn-error.log*
 output.csv
 
 *.dbf
+
+.DS_Store
